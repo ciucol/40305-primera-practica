@@ -1,0 +1,32 @@
+[
+  {
+    "name": "tv",
+    "price": 100,
+    "quantity": 13,
+    "category": "electronics"
+  },
+  {
+    "name": "shoes",
+    "price": 50,
+    "quantity": 10,
+    "category": "clothing"
+  },
+  {
+    "name": "socks",
+    "price": 5,
+    "quantity": 100,
+    "category": "clothing"
+  },
+  {
+    "name": "ps5",
+    "price": 500,
+    "quantity": 5,
+    "category": "electronics"
+  },
+  {
+    "name": "xBox series x",
+    "price": 500,
+    "quantity": 5,
+    "category": "electronics"
+  }
+]
