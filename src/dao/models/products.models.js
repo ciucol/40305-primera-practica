@@ -6,7 +6,11 @@ const productSchema = mongoose.Schema({
   name: String,
   price: Number,
   quantity: Number,
-  category: String
+  category: String,
+  users: {
+    type: Array,
+    default: []
+  }
 })
 
 const Product = mongoose.model(productCollection, productSchema)
